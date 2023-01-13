@@ -1,5 +1,5 @@
 [package]
-name = "spectrum-astroport-farm"
+name = "IDC-astroport-farm"
 version = "1.0.0"
 authors = ["Spectrum"]
 edition = "2021"
