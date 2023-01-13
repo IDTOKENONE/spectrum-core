@@ -1,5 +1,5 @@
 [package]
-name = "IDC-compound-proxy"
+name = "IDC-fee-collector"
 version = "1.0.0"
 authors = ["IDC"]
 edition = "2021"
