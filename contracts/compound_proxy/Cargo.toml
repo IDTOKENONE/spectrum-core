@@ -1,7 +1,7 @@
 [package]
-name = "spectrum-compound-proxy"
+name = "IDC-compound-proxy"
 version = "1.0.0"
-authors = ["Spectrum"]
+authors = ["IDC"]
 edition = "2021"
 description = "Proxy contract to perform auto-compound"
 
